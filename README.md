@@ -2,7 +2,7 @@
 Notre nouveau programme d'optimisation - Vous avez un souci d’ordinateur ? Vous avez des problèmes de lenteur ou de freeze avec votre ordinateur ? Ce programme vous correspond !
 
 
-> PATCH-NOTE V1.3
+    > PATCH-NOTE V1.3
 ► MISES À JOUR DE L'API DE LOGIN
 ► MISES EN PLACE DE L'AUTO-UPDATE
 ► AMÉLIORATION DU GUI DU FASTNEXUS
