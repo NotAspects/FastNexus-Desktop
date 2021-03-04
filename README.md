@@ -3,7 +3,7 @@ Notre nouveau programme d'optimisation - Vous avez un souci d’ordinateur ? Vou
 
 
     > PATCH-NOTE V1.3
-► MISES À JOUR DE L'API DE LOGIN
+    ► MISES À JOUR DE L'API DE LOGIN
 ► MISES EN PLACE DE L'AUTO-UPDATE
 ► AMÉLIORATION DU GUI DU FASTNEXUS
 ► MISES EN PLACE D'UN SYSTÈME DE REVERT.
