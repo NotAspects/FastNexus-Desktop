@@ -1,4 +1,4 @@
-# FastNexus Desktop Release 21.1.7)
+# FastNexus Desktop Release 21.1.7
 Our new optimization program - Do you have a computer problem? Do you have problems with your computer being slow or freezing? This program is for you!
 
 <img src="https://everblack.xyz/img/fast1.gif"/>
