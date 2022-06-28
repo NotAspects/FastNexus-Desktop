@@ -31,7 +31,7 @@ Our new optimization program - Do you have a computer problem? Do you have probl
         ► GUI setting
         
    We have set up a beta system in order to fix any bugs that may occur the next time you use it. 
-   We also tested the software via Virtuals Machines, and VPS provided by our partner <a href="https://fr.fivehosting.net/">Five Hosting</a></span>         
+   We also tested the software via Virtuals Machines, and VPS provided by our partner <a href="https://fivehosting.net/en//">Five Hosting</a></span>         
        
                        
 © Nexus 2021
