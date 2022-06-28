@@ -14,4 +14,4 @@ Notre nouveau programme d'optimisation - Vous avez un souci d’ordinateur ? Vou
     ► ET BIEN PLUS !
 ⚠️ Le logiciel est détecté en tant que virus car nous avons utilisé des Bat to .Exe ! Désactivez votre Anti-Virus.
 
-  <img src="https://everblack.xyz/img/fast.mp4"/>
+  <img src="https://everblack.xyz/img/fast1.gif"/>
