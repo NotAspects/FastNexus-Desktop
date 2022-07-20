@@ -34,4 +34,4 @@ Our new optimization program - Do you have a computer problem? Do you have probl
    We also tested the software via Virtuals Machines, and VPS provided by our partner <a href="https://fivehosting.net/en//">Five Hosting</a></span>         
        
                        
-© Nexus 2021
+© Nexus 2020 - 2022
