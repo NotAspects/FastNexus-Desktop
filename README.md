@@ -29,6 +29,15 @@ Our new optimization program - Do you have a computer problem? Do you have probl
         ► Added ProgressBar for Install NVIDIA Driver
         ► Added Disable USB Power Savings
         ► GUI setting
+
+   > #Changlogs - FastNexus (21.1.8)
+    
+        ► Added Latest Driver NVIDIA (516.94 whql)
+        ► Change the "Win32PrioritySeparation" setting to 26.
+        ► Auto-Updater Downloads to the desktop.
+        ► Removed KBoost
+        ► GUI Revamp
+
         
    We have set up a beta system in order to fix any bugs that may occur the next time you use it. 
    We also tested the software via Virtuals Machines, and VPS provided by our partner <a href="https://fivehosting.net/en//">Five Hosting</a></span>         
